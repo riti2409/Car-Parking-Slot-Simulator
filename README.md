@@ -21,4 +21,4 @@ make
 
 ## Developed by:
 - Riti Kumari
-- ritikumariupadhyay24@gmail.com
+-Email : ritikumariupadhyay24@gmail.com
